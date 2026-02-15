@@ -146,14 +146,14 @@ export function Footer({
                         FAQ
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a
                         href="#"
                         className="text-stone-400 hover:text-white transition-colors"
                       >
                         Contact
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
