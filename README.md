@@ -2,7 +2,7 @@
 
 ヴィーガン商品に特化した越境 EC サイト。  
 Shopify Hydrogen（ヘッドレスコマース）で構築し、Storefront API（GraphQL）経由でリアルタイムに商品・カート・決済データを取得。  
-将来的に FastAPI + ML によるパーソナライズレコメンド機能を統合予定。
+将来的に FastAPI によるパーソナライズレコメンド機能を統合予定。
 
 > **Demo:** [https://hydrogen-storefront-d22471213e514402571e.o2.myshopify.dev](https://hydrogen-storefront-d22471213e514402571e.o2.myshopify.dev)  
 > **GitHub:** [https://github.com/hiwa-tech-1223/veganlife-hydrogen](https://github.com/hiwa-tech-1223/veganlife-hydrogen)
