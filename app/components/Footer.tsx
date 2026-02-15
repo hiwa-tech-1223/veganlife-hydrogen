@@ -44,7 +44,7 @@ export function Footer({
                 </div>
 
                 {/* Shop */}
-                <div>
+                {/* <div>
                   <h3 className="text-white text-sm font-semibold mb-4">
                     Shop
                   </h3>
@@ -82,7 +82,7 @@ export function Footer({
                       </NavLink>
                     </li>
                   </ul>
-                </div>
+                </div> */}
 
                 {/* Company */}
                 <div>
@@ -117,7 +117,7 @@ export function Footer({
                 </div>
 
                 {/* Support */}
-                <div>
+                {/* <div>
                   <h3 className="text-white text-sm font-semibold mb-4">
                     Support
                   </h3>
@@ -146,16 +146,16 @@ export function Footer({
                         FAQ
                       </a>
                     </li>
-                    {/* <li>
+                    <li>
                       <a
                         href="#"
                         className="text-stone-400 hover:text-white transition-colors"
                       >
                         Contact
                       </a>
-                    </li> */}
+                    </li>
                   </ul>
-                </div>
+                </div> */}
               </div>
 
               <div className="border-t border-stone-800 mt-8 pt-8 text-sm text-center text-stone-500">
